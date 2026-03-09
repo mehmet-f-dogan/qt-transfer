@@ -1,6 +1,6 @@
 # Qt Transfer App
 
-Send messages and files between two machines over TCP or UDP.
+Send messages and files between two machines over TCP or UDP. This assumes there will be only one client and one server.
 
 ---
 
